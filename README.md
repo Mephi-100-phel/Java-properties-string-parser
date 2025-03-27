@@ -14,7 +14,7 @@ student.grade=4.6
 
 ## Authors
 
-- [@invalid-read-size](https://github.com/invalid-read-size)
+- [@Mephi-100-phel](https://github.com/Mephi-100-phel)
 
 
 ## License
@@ -27,7 +27,7 @@ student.grade=4.6
 Clone the project
 
 ```bash
-  git clone https://github.com/invalid-read-size/Java-properties-string-parser
+  git clone https://github.com/Mephi-100-phel/Java-properties-string-parser
 ```
 
 Go to the project directory
