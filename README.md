@@ -1,5 +1,5 @@
 
-# Project Title
+# Java-properties-string-parser
 
 This program is created to convert string of java properties format:
 ```java
